@@ -1,0 +1,7 @@
+{
+  "name": "COSMICS MEME GEN",
+  "description": "An advanced AI-powered meme generator that uses Gemini to analyze images, suggest hilarious captions, and perform intelligent image edits via text prompts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
